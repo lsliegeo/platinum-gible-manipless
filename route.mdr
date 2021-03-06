@@ -1,0 +1,104 @@
+:::tracker{species=Chimchar baseStats="[[44, 58, 44, 58, 44, 61], [64, 78, 52, 78, 52, 81]]"}
+5:
+   5 -> 0, 0, 0, 0, 0, 0
+   6 -> 0, 0, 0, 1, 0, 0 # piplup
+   7 -> 0, 0, 0, 1, 0, 1 # starly
+   8 -> 1, 0, 0, 1, 0, 1 # bidoof
+   9 -> 1, 1, 0, 1, 1, 1 # burmy, shinx
+   10 -> 1, 1, 0, 1, 1, 2 # starly
+   11 -> 2, 1, 0, 3, 1, 2 # piplup, bidoof, budew
+   12 -> 2, 1, 0, 4, 1, 4 # starly, abra, starly
+   13 -> 2, 3, 1, 4, 1, 4 # shinx, geodude, machop
+   14 -> 2, 3, 3, 4, 1, 4 # geodude, onix
+   15 -> 2, 3, 5, 4, 1, 4 # geodude, onix
+   16 -> 2, 4, 5, 4, 1, 5 # cranidos, glameow
+   17 -> 2, 4, 5, 4, 1, 9 # stunky, stunky, zubat, zubat
+   18 -> 2, 4, 5, 4, 1, 13 # glameow, zubat, purugly
+:::
+
+:::tracker{species=Gible baseStats="[[58, 70, 45, 40, 45, 42], [68, 90, 65, 50, 55, 82], [108, 130, 95, 80, 85, 102]]"}
+17:
+   17 -> 0, 0, 0, 0, 0, 0
+   18 -> 0, 0, 2, 0, 0, 1 # onix, onix, ponyta
+   19 -> 0, 2, 2, 0, 0, 2 # shinx, pachirisu, machop
+   20 -> 0, 2, 4, 0, 0, 3 # meditite, onix, nosepass
+   21 -> 0, 2, 5, 2, 1, 4 # mime jr., bonsly, roselia, combee
+   22 -> 0, 2, 5, 2, 1, 4
+   23 -> 0, 2, 5, 2, 1, 4
+   24 -> 0, 2, 5, 2, 1, 4
+   25 -> 0, 2, 5, 5, 3, 6 # duskull, haunter, mismagius, staravia
+   26 -> 0, 2, 5, 8, 3, 8 # buizel, monferno, roselia
+   27 -> 2, 2, 7, 11, 3, 8 # bronzor, shieldon, roselia, lickitung, ralts
+   28 -> 4, 5, 8, 11, 3, 9 # gligar, buizel, drifblim, croagunk, machoke
+   29 -> 4, 8, 8, 12, 3, 10 # meditite, machoke, lucario
+
+18:
+   18 -> 0, 0, 0, 0, 0, 0
+   19 -> 0, 0, 2, 0, 0, 1 # onix, onix, ponyta
+   20 -> 0, 2, 2, 0, 0, 3 # shinx, pachirisu, machop, meditite
+   21 -> 0, 2, 3, 2, 0, 4 # nosepass, roselia, combee
+   22 -> 0, 2, 3, 2, 0, 4
+   23 -> 0, 2, 3, 2, 0, 4
+   24 -> 0, 2, 3, 2, 0, 4
+   25 -> 0, 2, 3, 5, 2, 6 # duskull, haunter, mismagius, staravia
+   26 -> 0, 2, 3, 8, 2, 8 # buizel, monferno, roselia
+   27 -> 2, 2, 5, 11, 2, 8 # bronzor, shieldon, roselia, lickitung, ralts
+   28 -> 4, 5, 6, 11, 2, 9 # gligar, buizel, drifblim, croagunk, machoke
+   29 -> 4, 8, 6, 12, 2, 10 # meditite, machoke, lucario
+
+19:
+   19 -> 0, 0, 0, 0, 0, 0
+   20 -> 0, 0, 2, 0, 0, 1 # onix, onix, ponyta
+   21 -> 0, 2, 3, 0, 0, 2 # shinx, machop, meditite, nosepass
+   22 -> 0, 2, 3, 0, 0, 2
+   23 -> 0, 2, 3, 0, 0, 2
+   24 -> 0, 2, 3, 0, 0, 2
+   25 -> 0, 2, 3, 3, 2, 4 # duskull, haunter, mismagius, staravia
+   26 -> 0, 2, 3, 6, 2, 6 # buizel, monferno, roselia
+   27 -> 2, 2, 5, 9, 2, 6 # bronzor, shieldon, roselia, lickitung, ralts
+   28 -> 4, 5, 6, 9, 2, 7 # gligar, buizel, drifblim, croagunk, machoke
+   29 -> 4, 8, 6, 10, 2, 8 # meditite, machoke, lucario
+
+20:
+   20 -> 0, 0, 0, 0, 0, 0
+   21 -> 0, 0, 3, 0, 0, 1 # onix, onix, pachirisu, nosepass
+   22 -> 0, 0, 3, 0, 0, 1
+   23 -> 0, 0, 3, 0, 0, 1
+   24 -> 0, 0, 3, 0, 0, 1
+   25 -> 0, 0, 3, 3, 2, 3 # duskull, haunter, mismagius, staravia
+   26 -> 0, 0, 3, 6, 2, 5 # buizel, monferno, roselia
+   27 -> 2, 0, 5, 9, 2, 5 # bronzor, shieldon, roselia, lickitung, ralts
+   28 -> 4, 3, 6, 9, 2, 6 # gligar, buizel, drifblim, croagunk, machoke
+   29 -> 4, 6, 6, 10, 2, 7 # meditite, machoke, lucario
+:::
+
+## Trainers for Gible
+
+Lvl 17:
+* Hiker Theodore
+* Cyclist Rachel
+* Picnicker Lauren
+* Battle Girl Helen
+* Hiker Jonathan
+* Hiker Robert
+* Aroma Lady Hannah
+* Artist William
+
+Lvl 18:
+* Hiker Theodore
+* Cyclist Rachel
+* Picnicker Lauren
+* Battle Girl Helen
+* Hiker Robert
+* Aroma Lady Hannah
+
+Lvl 19:
+* Hiker Theodore
+* Cyclist Rachel
+* Battle Girl Helen
+* Hiker Robert
+
+Lvl 20:
+* Hiker Theodore
+* Picnicker Lauren
+* Hiker Robert

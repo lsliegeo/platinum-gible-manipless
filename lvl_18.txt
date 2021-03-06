@@ -1,0 +1,39 @@
+# Hiker Theodore
+onix 18
+onix 20
+# Cyclist Rachel
+ponyta 20
+shinx 18
+# Picnicker Lauren
+pachirisu 22
+# Battle Girl Helen
+machop 21
+meditite 21
+# Hiker Robert
+nosepass 22
+# Aroma Lady Hannah
+roselia 18
+combee 22
+
+candy 3
+
+duskull 24
+haunter 24
+mismagius 26
+staravia 25
+buizel 23
+monferno 27
+roselia 23
+bronzor 23
+shieldon 23
+roselia 24
+lickitung 25
+ralts 24
+gligar 24
+buizel 24
+drifblim 25
+croagunk 26
+machoke 26
+meditite 28
+machoke 29
+lucario 32
